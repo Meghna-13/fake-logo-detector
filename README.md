@@ -21,16 +21,4 @@ TO RUN :
 3) python app.py
 
 
-## 📁 Folder Structure
-fake-logo-detector/
-├── app.py
-├── model/
-│ └── saved_model.h5
-├── static/
-│ └── style.css
-├── templates/
-│ └── index.html
-├── train_model.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+<pre> ## 📁 Folder Structure <code> fake-logo-detector/ ├── app.py ├── model/ │ └── saved_model.h5 ├── static/ │ └── style.css ├── templates/ │ └── index.html ├── train_model.py ├── requirements.txt ├── README.md └── .gitignore </code> </pre>
