@@ -15,7 +15,7 @@ A web app to classify brand logos as Real or Fake using deep learning.
 - OpenCV
 - Bootstrap (UI)
 
-TO RUN :
+## 🚀 To Run :
 1) cd path\to\your\fake-logo-detector (cmd)
 2) venv\Scripts\activate
 3) python app.py
@@ -23,14 +23,24 @@ TO RUN :
 
 ## 📁 Folder Structure
 fake-logo-detector/
-├── app.py
-├── model/
-│ └── saved_model.h5
-├── static/
-│ └── style.css
-├── templates/
-│ └── index.html
-├── train_model.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+- ├── app.py
+- ├── model/
+- │ └── saved_model.h5
+- ├── static/
+- │ └── style.css
+- ├── templates/
+- │ └── index.html
+- ├── train_model.py
+- ├── requirements.txt
+- ├── README.md
+-    └── .gitignore
+
+## 🎯 Applications
+- Brand authenticity checks
+- Educational demos for transfer learning
+- Visual proof-of-concept for image classification tasks
+
+## 📦 Future Improvements
+- Dataset expansion with more brand logos
+- Improve accuracy with more balanced data
+- Deploy on cloud (e.g., Render, Heroku, or Hugging Face Spaces)
